@@ -6,11 +6,11 @@ This sample is to create the environment for testing SSO with WSO2 IS
 
 $ vagrant box add hashicorp/precise32
 
-Demo:Create the simplest vagrant project
+# Demo:Create the simplest vagrant project
 
 $ vagrant init hashicorp/precise32
 
-Demo:Start the environment
+# Demo:Start the environment
 
 $ vagrant up
 
