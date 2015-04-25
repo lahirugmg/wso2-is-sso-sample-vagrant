@@ -2,7 +2,7 @@
 
 This sample is to create the environment for testing SSO with WSO2 IS
 
-Demo:Adding a base image
+# Demo:Adding a base image
 
 $ vagrant box add hashicorp/precise32
 
