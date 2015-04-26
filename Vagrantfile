@@ -1,4 +1,3 @@
-# Example 4
 #
 # Single box with Apache and sample static site installed via Puppet.
 #
