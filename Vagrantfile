@@ -7,7 +7,7 @@
 # you're doing.
 $script = <<SCRIPT
 echo I am provisioning...
-date > /etc/vagrant_provisioned_at
+echo "Hey, this is shell provisioning" > /etc/vagrant_provisioned_at
 SCRIPT
 
 Vagrant.configure(2) do |config|
